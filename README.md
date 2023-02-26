@@ -1,4 +1,4 @@
-<h1><b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=2800&pause=2000&color=scale-gray&center=true&vCenter=true&width=940&height=50&lines=Hello+🙂!+there!" align="middle" alt="Hello🙂! there"></a></b></h1>
+<h1><b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=2800&pause=2000&color=scale-gray&center=true&vCenter=true&width=940&height=50&lines=Hello+🙂+there!" align="middle" alt="Hello🙂 there !"></a></b></h1>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a> -->
 
 <h3 align="center"><b> Myself Suresh Thakur | IT Engineering Student</b></h3>
