@@ -5,7 +5,7 @@
 
 - 🌱 Currently, I'm enhancing my skills on **C++.**
 
-- 💬 Ask me about:**C/C++**
+- 💬 Ask me about:**C/C++/HTML and CSS**
 
 - 💬 I am available : **sureshsh123456789@gmail.com**
 
