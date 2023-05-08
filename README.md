@@ -3,9 +3,9 @@
 
 <h3 align="center"><b> Myself Suresh Thakur | IT Engineering Student</b></h3>
 
-- 🌱 Currently, I'm enhancing my skills on **C++.**
+- 🌱 Currently, I'm enhancing my skills on **Javascript,Php and MySQL**
 
-- 💬 Ask me about:**C/C++/HTML and CSS**
+- 💬 Ask me about:**C/C++/HTML and CSS/Javascript,Php and MySQL**
 
 - 💬 I am available : **sureshsh123456789@gmail.com**
 
