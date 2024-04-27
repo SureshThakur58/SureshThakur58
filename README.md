@@ -5,7 +5,7 @@
 
 - 🌱 Currently, I'm enhancing my skills on **Javascript,Php and MySQL**
 
-- 💬 Ask me about:**C/C++/HTML and CSS/Javascript,Php,Java and MySQL**
+- 💬 Ask me about:**C/C++/HTML and CSS/Javascript/Php/Java and MySQL**
 
 - 💬 I am available : **sureshtha1435@gmail.com**
 
