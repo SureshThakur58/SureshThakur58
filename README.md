@@ -3,9 +3,9 @@
 
 <h3 align="center"><b> Myself Suresh Thakur | IT Engineering Student</b></h3>
 
-- 🌱 Currently, I'm enhancing my skills on **Javascript,Php and MySQL**
+- 🌱 Currently, I'm enhancing my skills on **Python and Javascript**
 
-- 💬 Ask me about:**C/C++/HTML and CSS/Javascript/Php/Java and MySQL**
+- 💬 Ask me about:**C/C++/HTML and CSS/Javascript/Php/Python/Java and MySQL**
 
 - 💬 I am available : **sureshtha1435@gmail.com**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css," width="250"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,java,python,php" width="250"/>
   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SureshThakur58&label=Profile%20views&color=0e75b6&style=flat" alt="SureshThakur58" /> </p>
