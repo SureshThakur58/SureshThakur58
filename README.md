@@ -5,7 +5,7 @@
 
 - 🌱 Currently, I'm enhancing my skills on **Python and Javascript**
 
-- 💬 Ask me about:**C/C++/HTML and CSS/Javascript/Php/Python/Java/Mongodb and MySQL**
+- 💬 Ask me about:**C/C++/C#/HTML and CSS/Javascript/Php/Python/Java/Mongodb and MySQL**
 
 - 💬 I am available : **sureshtha1435@gmail.com**
 
